@@ -101,6 +101,8 @@ footer p {
     .features {
         flex-direction: column;
         gap: 0px;
+        text-align: center;
+
     }
 
     header {
